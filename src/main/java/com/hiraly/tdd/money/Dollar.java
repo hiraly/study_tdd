@@ -1,4 +1,4 @@
-package money;
+package com.hiraly.tdd.money;
 
 class Dollar {
     Dollar(int amount) {
